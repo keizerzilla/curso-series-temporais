@@ -7,13 +7,13 @@ Aqui eu pontuo, de forma geral e pouco estruturada, os tópicos que serão abord
 - teóricos: matemática básica
     - funções e estatística
 - práticos: Python e alguma familiaridade com as bibliotecas Pandas e Numpy (bônus: matplotlib pra visualização)
-- momento para mostrar como instalar dependências
+- momento para mostrar como instalar dependências?
 
 ## Definição e exemplos
 
 - definição formal: o que é
     - conjunto de dados sucessivo (sequência de números), dependentes do tempo e amostrados em intervalos fixos
-- notação matemática + visualização
+- notação matemática e visualização
 - características principais
     - dependência: a relação entre amostras próximos, sequenciais
 	- estacionariedade: com base nos dois descritores estatísticos básicos (média e variância), pergunta-se: a série tende a mudar muito?
