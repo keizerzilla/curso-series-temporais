@@ -1,18 +1,18 @@
-# Sobre
+# Sobre x
 
 Aqui eu pontuo, de forma geral e pouco estruturada, os tópicos que serão abordados no curso. A ideia é condensar o todo e depois repartir em aulas.
 
-## Pré-requisitos
+## Pré-requisitos x
 
 - teóricos: matemática básica
     - funções e estatística
 - práticos: Python e alguma familiaridade com as bibliotecas Pandas e Numpy (bônus: matplotlib pra visualização)
 - momento para mostrar como instalar dependências?
 
-## Definição e exemplos
+## Definição e exemplos x
 
 - definição formal: o que é
-    - conjunto de dados sucessivo (sequência de números), dependentes do tempo e amostrados em intervalos fixos
+    - conjunto de dados sucessivos (sequência de números), dependentes do tempo e amostrados em intervalos fixos
 - notação matemática e visualização
 - características principais
     - dependência: a relação entre amostras próximos, sequenciais
@@ -20,18 +20,18 @@ Aqui eu pontuo, de forma geral e pouco estruturada, os tópicos que serão abord
 - áreas de aplicação e exemplos
     - economia, processamento de sinais, metereologia, controle, e tudo mais que se preocupe com o tempo
 
-## Tipos de aplicação
-
-- análise: extração de características significativas
-    - componentes e suas tendências, além de padrões 
-- predição: ver o futuro com base em dados passados
-
 ## Componentes
 
 - autocorrelação
 - quais são: base, tendência, sazonalidade, ciclo, aleatoriedade/ruído/resíduo/erro
 - composições: aditivas, multiplicativas
 - decomposição: como extrair e visualizar cada componente
+
+## Tipos de aplicação
+
+- análise: extração de características significativas
+    - componentes e suas tendências, além de padrões 
+- predição: ver o futuro com base em dados passados
 
 ## Classificação
 
