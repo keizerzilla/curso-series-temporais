@@ -5,3 +5,4 @@ seaborn
 jupyterlab
 matplotlib
 statsmodels
+scikit-learn
